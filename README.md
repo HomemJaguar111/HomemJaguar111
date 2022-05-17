@@ -1,7 +1,6 @@
-Atualmente estudando Formação React Native oferecido pelo <a href='https://www.catapulta.club/'>Catapulta</a> e participando da Terceira Edição do <a href='https://www.hiringcoders.com.br/'>HiringCoders</a>
+## João Victor 
 
-
-
+Estudando métodos de desenvolvimento que utilizando JavaScript, TypeScript e mobile, inicializando conhecimentos em React e React Native. Pretendo prestar vestibular mara Matemática/Física. Me interesso em dar aulas futuramente.
 
 
 <div style="display: inline_block"><br>
