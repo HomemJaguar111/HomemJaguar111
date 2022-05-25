@@ -1,6 +1,6 @@
 ## João Victor 
 
-Estudando métodos de desenvolvimento que utilizando JavaScript, TypeScript e mobile, inicializando conhecimentos em React e React Native. Pretendo prestar vestibular mara Matemática/Física. Me interesso em dar aulas futuramente.
+Estudando métodos de desenvolvimento utilizando JavaScript, TypeScript e inicializando conhecimentos em React e React Native. Pretendo prestar vestibular para Matemática/Física. Me interesso em dar aulas futuramente.
 
 
 <div style="display: inline_block"><br>
