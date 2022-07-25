@@ -1,6 +1,8 @@
-## João Victor 
+## Projetos React Native
 
-Estudando métodos de desenvolvimento utilizando JavaScript, TypeScript e inicializando conhecimentos em React e React Native. Pretendo prestar vestibular para Matemática/Física. Me interesso em dar aulas futuramente.
+## Projetos Web
+
+## Projetos Pessoais
 
 
 <div style="display: inline_block"><br>
