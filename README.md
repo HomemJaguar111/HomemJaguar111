@@ -1,13 +1,18 @@
 ## Projetos React Native
    ### Clone Finclass
+   <a href='https://github.com/HomemJaguar111/finclass/tree/feat/creat_components'>Link para o Repositório</a>
    ### Calculadora IMC
+   <a href='https://github.com/HomemJaguar111/onebithealth'>Link para o Repositório</a>
    ### Dio Lighter
+   <a href='https://github.com/HomemJaguar111/flashLight'>Link para o Repositório</a>
 
 ## Projetos Web
-   ### Nwl Return
+   ### NLW Return
+   <a href='https://github.com/HomemJaguar111/NLWreturn'>Link para o Repositório</a>
 
 ## Projetos Pessoais
    ### Oráculo I-Ching
+   <a href='https://github.com/HomemJaguar111/Oraculo-I-Ching'>Link para o Repositório</a>
 
 
 <div style="display: inline_block"><br>
